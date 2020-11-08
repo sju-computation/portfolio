@@ -1,3 +1,7 @@
 # OSX files to ignore
 **/.DS_Store
 .DS_Store
+
+# Ignore R Markdown 
+**/.Rmd
+.Rmd
